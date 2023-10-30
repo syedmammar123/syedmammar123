@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Mental Health Website**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **FullStack Webdevelopment**
 
 - 👨‍💻 All of my projects are available at [www.workInProgress.com](www.workInProgress.com)
 
