@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Engineer developer from Pakistan</h3>
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="400">
 
-- 🔭 I’m currently working on **Mental Health Website** https://github.com/syedmammar123/Soul-Support
+- 🔭 I’m currently working on **AgriSense** AI based smart agritech platform.
 
-- 🌱 I’m currently learning **FullStack Webdevelopment**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/syedmammar123](https://github.com/syedmammar123)
 
