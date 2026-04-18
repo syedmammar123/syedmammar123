@@ -10,15 +10,13 @@
 
 - 💬 Ask me about **Software development and its best practices**
 
-- 📫 How to reach me **syedmammar123@gmail.com**
+- 📫 How to reach me **syed.m.ammar123[@]gmail.com**
 
 - ⚡ Fun fact **I can catch a bug faster than the compiler itself!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/syed-muhammad-ammar-619293244"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/mammar211"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/syed_ammar211"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
